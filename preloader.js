@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://gusponholz.github.io/preloaderJs/loaderBet.svg';
+svgImage.src = 'https://gusponholz.github.io/preloaderJs/splashNovo.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
